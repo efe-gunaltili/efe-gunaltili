@@ -1,29 +1,28 @@
-# Hi, I'm Efe Günaltılı 👋  
+# Hi, I'm Efe Günaltılı 👋
 
-🎓 High school student at Ahmet Keleşoğlu Science High School, Istanbul  
-🚀 Interested in Physics, Engineering, and Programming  
-💡 Always curious and eager to learn new skills.  
+🎓 Aerospace Engineering student, English Prep Year, METU
+🚀 Focused on aerodynamics, fluid dynamics, and applied engineering research
+💡 Formula Student aerodynamics lead, exploring CFD, CAD, and biomedical engineering applications
 
-## 🔧 Skills & Interests  
-- Programming: Python, Java, Batch (learning and experimenting)  
-- Projects: VR Sign Language Translator, Snake Game in Batch, Smart School Camera  
-- Interests: Aerodynamics, Physics, Calculus, Formula 1, Physics Simulations  
+## 🔧 Current Work
+- **Aerodynamic Design Lead**, Koç University Formula Student Team — wing/surface design, CFD-driven aerodynamic development
+- **Research collaboration** with a CERN engineer on applied mathematics (Lennard-Jones potential, Monte Carlo simulations, rocket launch dynamics)
+- **Biomedical engineering projects**, Istanbul Medipol University — patient-specific hip prosthesis FEA analysis; pediatric airway digital-twin modeling (with Dr. K. Banu Köse)
 
-## 🌍 Languages I Speak  
-- English (C1)  
-- German (B2)  
-- Italian (B1)  
-- Turkish (Native)  
 
-## 🙋‍♂️ Help me with  
-- Learning better coding practices  
-- Tips for physics-related projects  
-- Guidance on engineering or simulation projects
-- Collaboration on  
+## 📁 Featured Projects
+- Hip Prosthesis FEA Analysis — material comparison (Ti6Al4V / CoCr / polyethylene) under ANSYS FEA
+- Pediatric Airway Digital Twin — CT-based segmentation, statistical shape analysis, CFD-informed ETT design
 
-## 📫 How to reach me  
-- LinkedIn: [https://www.linkedin.com/in/efe-g%C3%BCnalt%C4%B1l%C4%B1-2a61b2301/]
-- Email: efegunaltili@hotmail.com  
+## 🌱 Currently Learning
+- CAD (Fusion 360) and CFD fundamentals — building toward independent aerodynamic simulation work
+- Python-based data analysis and simulation
 
-⚡ *“Curiosity drives learning, and learning drives innovation.”*
+## 🌍 Languages
+- Turkish (Native) · English (C1) · German (B2) · Italian (B1)
 
+## 📫 Reach Me
+- LinkedIn: [linkedin.com/in/efe-günaltılı](https://www.linkedin.com/in/efe-g%C3%BCnalt%C4%B1l%C4%B1-2a61b2301/)
+- Email: e282684@metu.edu.tr
+
+⚡ *"Curiosity drives learning, and learning drives innovation."*
