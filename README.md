@@ -23,6 +23,6 @@
 
 ## 📫 Reach Me
 - LinkedIn: [linkedin.com/in/efe-günaltılı](https://www.linkedin.com/in/efe-g%C3%BCnalt%C4%B1l%C4%B1-2a61b2301/)
-- Email: e282684@metu.edu.tr
+- Email: efe.gunaltili@metu.edu.tr
 
 ⚡ *"Curiosity drives learning, and learning drives innovation."*
